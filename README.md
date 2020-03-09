@@ -7,3 +7,5 @@ During the course of development, I ran into the challenge of transferring geogr
 to my Flask application. I attempted to make the transfer using AJAX, but I was not able to solve the
 issue in time and resorted to using a separate library to find user location. I've included the HTML and JavaScript files I attempted
 to use in the effort. 
+
+Also included in the repo are a Jupyter notebook used for data analysis and calculations.py, a file containing functions to gather data from the Yelp API. 
