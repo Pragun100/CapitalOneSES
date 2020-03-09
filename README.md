@@ -8,4 +8,4 @@ to my Flask application. I attempted to make the transfer using AJAX, but I was 
 issue in time and resorted to using a separate library to find user location. I've included the HTML and JavaScript files I attempted
 to use in the effort. 
 
-Also included in the repo are a Jupyter notebook used for data analysis and calculations.py, a file containing functions to gather data from the Yelp API. 
+Also included in the repository is a Jupyter notebook used for data analysis and calculations.py, a file containing functions to gather data from the Yelp API. 
