@@ -4,7 +4,7 @@ import pandas as pd
 
 # function to get a dataframe from the yelp api of restaurant data
 def getRestaurantData(location):
-    API_KEY= 'NmmlyDfBUXTAATFU0TJNX1K8TdFIKu_JvN7-z3NBBK-4pB_Tg4MSqJgzEwTN6taL8NIa8_g3LmCh8QWipwaJQXtaxaL5iKQ1j4ZSFivRzM5fttkDZZk_eczjgyNgXnYx'
+    API_KEY= # use own API key here 
     ENDPOINT = 'https://api.yelp.com/v3/businesses/search'
     HEADERS = {"Authorization": 'bearer %s' % API_KEY }
 
